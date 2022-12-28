@@ -1,3 +1,4 @@
+/* eslint-disable import/order */
 const common = require('./webpack.common');
 const { merge } = require('webpack-merge');
 
